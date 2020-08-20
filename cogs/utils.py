@@ -268,7 +268,7 @@ class Utils(commands.Cog):
 			],
 			[
 				'RKREE',
-				self.bot.get_user(395872198323077121),
+				self.bot.get_user(738279874749530172),
 				datetime.date(2020, 11, 5)
 			],
 			# idk if she goes by her irl name but I'm sticking with it for the sake of uniformity
